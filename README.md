@@ -1,6 +1,5 @@
 # Pytorch-
 
-## CPU VS GPU
 ## CPU vs GPU
 
 ```text
@@ -23,3 +22,4 @@ OS operations
                     ↓
                   Result
 ```
+GPU IS LIKE CALCULATION MACHINE IT BASICALLY CALCULATE THE COMPLEX NUMERICAL PROBLEMS AND CPU IS FOR CALCULATING
