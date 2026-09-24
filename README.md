@@ -1,19 +1,9 @@
 # Pytorch-
 
 ## CPU VS GPU
-lower code follow this flow
+## CPU vs GPU
 
-x
-↓
-CPU memory
-↓
-PyTorch operation
-↓
-CPU calculates
-
-## CPU is a general-purpose processor, while GPU is specialized for highly parallel workloads, especially large-scale numerical/tensor operations.
-
-    ```text
+```text
                  COMPUTER
                     │
           ┌─────────┴─────────┐
